@@ -1,6 +1,7 @@
 # NBA-PLAYERS-ANALYSIS
 The NBA Players Report provides insights into the statistics and achievements of 20 NBA players, including their career average points, assists, rebounds, All-Star appearances, MVP awards, championships, and team selections.
 The report reveals that Michael Jordan and Wilt Chamberlain have the highest career average points, with Jordan averaging 30.1 points and Chamberlain averaging 30.1 points. In contrast, Bill records the lowest average points at 15.1.
+![Untitled - Power BI Desktop 1_19_2024 9_37_26 PM](https://github.com/Tumishey/NBA-PLAYERS-ANALYSIS/assets/163403250/892a614c-9020-4a63-be7a-da1adf47e4f6)
 
 Magic Johnson and Moses Malone emerge as the players with the highest career average assists, indicating their prowess as creative point guard and power forward, respectively. Shaquille O’Neal holds the lowest average assists in the league, with 2.50.
 
